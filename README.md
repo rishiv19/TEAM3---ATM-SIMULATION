@@ -1,6 +1,4 @@
-Sure, Hari! Here's a complete `README.md` tailored for running your `ATMSystem.jar` Java application when the manifest doesn’t include a `Main-Class`.
 
-```markdown
 # 🏦 ATM System - Java Application
 
 This project simulates an Automated Teller Machine (ATM) system. It's packaged as a JAR file and run manually by specifying the main class because the JAR does not include a `Main-Class` entry in its manifest.
